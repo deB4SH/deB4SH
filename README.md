@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: business applications
+- 🌱 I’m currently learning: kubernetes, openshift, ml
+- 👯 I’m looking to collaborate on projects
+- 📫 How to reach me: Twitter(@deb4sh)
 
 #### Graphics
 
