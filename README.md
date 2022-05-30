@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/7hLfnrOiTBE1q/giphy.gif" />
+  <img src="https://media0.giphy.com/media/7hLfnrOiTBE1q/giphy.gif" /> <br />
   #cheerio
 </p>
